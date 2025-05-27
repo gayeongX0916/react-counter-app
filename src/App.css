@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.counter-app {
+  margin: 0 auto;
+  width: 640px;
+  padding: 20px;
+}
+
+.counter-section {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.counter-app section {
+  background-color: rgb(228, 227, 227);
+  padding: 20px 30px;
+}
+
+.counter-viewer div {
+  font-size: 18px;
+}
+
+.counter-controller button {
+  padding: 2px 8px;
+  cursor: pointer;
+}
