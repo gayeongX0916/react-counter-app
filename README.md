@@ -15,3 +15,5 @@ React + Vite로 만든 다중 증감 버튼이 있는 카운터 앱
  - Javascript
  - React
  - Vite
+
+   ![](https://velog.velcdn.com/images/gayeong__0916/post/04db3641-fd3b-4149-9494-a7d71ab736c8/image.png)
