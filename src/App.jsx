@@ -12,7 +12,9 @@ function App() {
 
   return (
     <main className="counter-app">
-      <h1>Simple Counter</h1>
+      <header>
+        <h1>Simple Counter</h1>
+      </header>
       <section className="counter-section">
         <Viewer count={count} />
         <Controller handleonClick={handleonClick} />
